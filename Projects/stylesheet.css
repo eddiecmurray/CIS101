@@ -2,3 +2,19 @@ body {
 	font-family: Arial;
 	line-height: 40px
 }
+
+b.input {
+	color: red;
+}
+
+b.excel {
+	color: green;
+}
+
+b.cell {
+	color: purple;
+}
+
+b.keyboard {
+	color: orange;
+}
